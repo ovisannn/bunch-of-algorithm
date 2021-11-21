@@ -1,7 +1,7 @@
 # bunch-of-algorithm
 trying to break 6 month code
 
-##Milestones
+## Milestones
   - 3 days code
   - 1 week code
   - 2 week code
