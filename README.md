@@ -1,5 +1,6 @@
-# bunch-of-algorithm
-trying to break 6 month code
+# Welcome to my repo ʕ•́ᴥ•̀ʔっ
+trying to break 6 month code. This repo will be my second diary (ɔ◔‿◔)ɔ ♥
+semangat semangat ᕙ(^▿^-ᕙ)
 
 ## Milestones
   - 3 days code
