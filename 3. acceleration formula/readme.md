@@ -8,6 +8,8 @@
 
 ## Newton's Laws of Motion
 
+> Newton's second law is a quantitative description of the changes that a force can produce on the motion of a body. It states that the time rate of change of the momentum of a body is equal in both magnitude and direction to the force imposed on it.
+
 ## Formula for Acceleration
 
 >F = m . a
